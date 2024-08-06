@@ -1,6 +1,4 @@
-# notebook
-
-A new Flutter project.
+# notebook app here.
 
 ## Getting Started
 
